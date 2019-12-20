@@ -78,6 +78,7 @@ __Teaching Assistant__, Eindhoven University of Technology
 - Docker
 - C++
 - Git
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
