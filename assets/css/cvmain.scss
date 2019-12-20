@@ -22,7 +22,7 @@ $lowlightcolor: {{ site.lowlight-color }};
 @import "site";
 @import "typography";
 @import "pygments";
-@import "coderay";
+// @import "coderay";
 @import "elements";
 @import "forms";
 @import "page";

@@ -71,6 +71,13 @@ __Script developer__, Coosto
 `2012-2015`
 __Teaching Assistant__, Eindhoven University of Technology
 
+
+## Favourite software languages/tools
+- Python  (and the entire ecosystem around it)
+- Reveal.JS
+- Docker
+- C++
+- Git
 <!-- ### Footer
 
 Last updated: May 2013 -->
