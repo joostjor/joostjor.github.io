@@ -6,7 +6,7 @@ excerpt: "About Me..."
 ## Hi there!
 I am a Ph.D. Candidate at [Eindhoven University of Technology](https://www.tue.nl/en/) in the Stochastics Group since the summer of 2018,
 where I work under the supervision of [Dr. Júlia Komjáthy](https://www.win.tue.nl/~jkomjath/) and [Prof. Dr. Remco van der Hofstad](https://www.win.tue.nl/~rhofstad/).
-My position is funded by [NWO Science](https://www.narcis.nl/research/RecordID/OND1367443) and I am affiliated to NWO Zwaartekracht grant [NETWORKS](https://thenetworkcenter.nl/).
+My position is funded by [NWO Science](https://www.narcis.nl/research/RecordID/OND1367443).
 
 The main focus of my Ph.D. is on *distances* in Random Graphs, and in particular *Preferential Attachment Models*.
 While my work is mostly theoretical, applications can be found in e.g. spreading of epidemics, fake news, and computer viruses.
@@ -22,3 +22,5 @@ In my spare time I love to play the piano (mostly jazz music). At the moment, I 
 - Preferential Attachment
 - (Spatial) Random Graphs
 - Percolation
+
+##[Publications and preprints]("{{ domain }}{{ research }}")
