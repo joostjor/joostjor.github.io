@@ -23,4 +23,4 @@ In my spare time I love to play the piano (mostly jazz music). At the moment, I 
 - (Spatial) Random Graphs
 - Percolation
 
-##[Publications and preprints]("{{ domain }}{{ research }}")
+Click [here]("{{ domain }} research ") for my publications and preprints.
